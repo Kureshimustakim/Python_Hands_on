@@ -1,5 +1,3 @@
-# Python_hands_on
-A curated collection of Python assignments and study notes for hands-on learning.
 
 # 🐍 Hands-On Python
 
