@@ -10,9 +10,7 @@ This is a curated collection of Python assignments and study notes designed to r
 hands-on-python/
 
 ├── assignments/     # Python practice problems and solutions
-
 ├── notes/           # Study notes on various Python topics
-
 ├── resources/       # Helpful references and external links
 
 
