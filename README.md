@@ -1,5 +1,5 @@
 
-# 🐍 Hands-On Python
+# Hands-On Python
 
 Welcome to my **Hands-On Python** repository! 
 This is a curated collection of Python assignments and study notes designed to reinforce core concepts through practice.
@@ -10,7 +10,9 @@ This is a curated collection of Python assignments and study notes designed to r
 hands-on-python/
 
 ├── assignments/     # Python practice problems and solutions
+
 ├── notes/           # Study notes on various Python topics
+
 ├── resources/       # Helpful references and external links
 
 
@@ -37,6 +39,7 @@ hands-on-python/
 - To serve as a revision and portfolio resource
 
 ## 🛠️ Tech Stack
+
 - Python 3.12.7
 - Jupyter Notebook
 - Markdown
